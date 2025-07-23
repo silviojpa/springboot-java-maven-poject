@@ -1,11 +1,11 @@
 ## To Build & Run This project, follow the steps.
 
 --> 1 apt-get update -y
-    2  apt install openjdk-11-jre -y
-    3  apt install maven -y
-    4  java -version
-    5  maven -version
-    6  mvn -version
+   - 2  apt install openjdk-11-jre -y
+   - 3  apt install maven -y
+   - 4  java -version
+   - 5  maven -version
+   - 6  mvn -version
 
 --> Clone the Project
 
