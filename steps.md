@@ -1,6 +1,11 @@
-## https://www.youtube.com/@devopsshack
-## Learn DevOps in 30 Days at https://www.youtube.com/watch?v=9q1DnI8MoIE&list=PLAdTNzDIZj_8BerYwx-rUjmVkj6A9vD9_&pp=gAQBiAQB
 ## To Build & Run This project, follow the steps.
+
+--> 1 apt-get update -y
+    2  apt install openjdk-11-jre -y
+    3  apt install maven -y
+    4  java -version
+    5  maven -version
+    6  mvn -version
 
 --> Clone the Project
 
